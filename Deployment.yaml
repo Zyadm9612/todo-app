@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deployme
+kind: Deployment
 metadata:
   name: todo-app
   labels:
